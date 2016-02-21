@@ -5,7 +5,6 @@ Contents
 ---
 Topic | Relevant Links
 --- | ---
-
 **After Graduation** | 
 [OPT applicaiton](#opt-application) | [Official GOV website](https://www.uscis.gov/eir/visa-guide/f-1-opt-optional-practical-training/f-1-optional-practical-training-opt)
 
