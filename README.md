@@ -5,7 +5,7 @@ Contents
 ---
 Topic | Relevant Links
 --- | ---
-**After Graduation**
+**After Graduation** | 
 [OPT applicaiton](#opt-application) | [Official GOV website](https://www.uscis.gov/archive/archive-news/questions-and-answers-extension-optional-practical-training-program-qualified-students) 
 
 
