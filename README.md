@@ -5,14 +5,16 @@ Contents
 ---
 Topic | Relevant Links
 --- | ---
+
 **After Graduation** | 
-[OPT applicaiton](#opt-application) | [Official GOV website](https://www.uscis.gov/archive/archive-news/questions-and-answers-extension-optional-practical-training-program-qualified-students) 
+[OPT applicaiton](#opt-application) | [Official GOV website](https://www.uscis.gov/eir/visa-guide/f-1-opt-optional-practical-training/f-1-optional-practical-training-opt) 
 
 
 
 ####OPT application
-
-#####Some Do's and Don'ts
+1. [UTD OPT details link](http://www.utdallas.edu/isso/opt/) 
+2. #####Some Do's and Don'ts
+* Get this photo taken from India - it is rather expensive here at around $7 per picture.
 * In color
 * Printed on matte or glossy photo quality paper
 * 2 x 2 inches (51 x 51 mm) in size
