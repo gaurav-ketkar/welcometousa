@@ -1,17 +1,28 @@
 # welcometousa
-A 'How do I?' collection for people like me who have moved to USA and need to know how to do basic things.
+A 'How do I?' collection for people like me who have moved to USA and need to know how to do basic things. This is treasure trove of information that I wish someone had curated for me when I first came here.
+
+##To contributors
+* Keep things as university/state/religion/race/ethnicity agnostic as possible. No one wants to know about a specific portal for University of Texas if it is not ubiquitously available.
+* Although there is a slight bias for advice for people coming from India, please feel free to include advice specific to your country and be sure to say that somewhere in brackets! 
 
 Contents
 ---
 Topic | Relevant Links
 --- | ---
+**Driving License** | 
+Texas | 
+**Shopping** | 
+Groceries | 
+Online | 
+Utilities | 
+Banking | 
 **After Graduation** | 
 [OPT applicaiton](#opt-application) | [Official GOV website](https://www.uscis.gov/eir/visa-guide/f-1-opt-optional-practical-training/f-1-optional-practical-training-opt)
 
 ####OPT application
 [UTD OPT details link](http://www.utdallas.edu/isso/opt/) 
 #####Some Do's and Don'ts
-* Get this photo taken from India - it is rather expensive here at around $7 per picture.
+* Get this photo taken from India - it is rather expensive here at around $7 per picture!
 * In color
 * Printed on matte or glossy photo quality paper
 * 2 x 2 inches (51 x 51 mm) in size
